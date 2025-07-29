@@ -1,3 +1,4 @@
-provider "scaffolding" {
-  # example configuration here
+provider "sample" {
+  prefix    = "provider-prefix"
+  delimiter = "-"
 }
