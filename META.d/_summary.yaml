@@ -4,7 +4,7 @@ schema: 1.1
 partition: tf-ecosystem
 
 summary:
-  owner: team-tf-core-plugins
+  owner: clouboutin-tb
   description: |
-    Quick start repository for creating a Terraform provider using terraform-plugin-framework
+    Sample Terraform provider based on terraform-plugin-framework
   visibility: public
